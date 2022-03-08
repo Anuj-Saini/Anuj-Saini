@@ -55,13 +55,12 @@
 <a href="https://twitter.com/AnujSai08366023?fbclid=IwAR0M4_hZBvQ-kFn6Kj8OAmFmmbGATPmi9d3U5Z7NiBZJPQ1J-vG-S3Q0OjY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AnujSai08366023" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anuj-saini-4767b4173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj-saini-4767b4173" height="30" width="40" /></a>
 <a href="https://www.instagram.com/whoanujsaini/?fbclid=IwAR0chfHbhLjK1DMueq2Fh6wo-8KTt3BZP070muugbJEYpANajKNTkU3XSj0" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="anuj0049" height="30" width="40" /></a>
-<br>
 <a href="https://www.hackerrank.com/anujsaini0049?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anujsaini0049" height="30" width="40" /></a>
 <a href="https://leetcode.com/AnujSaini_11810306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AnujSaini_11810306" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anuj11810306/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/anuj11810306/practice/" height="30" width="40" /></a>
 
 </p>
-
+<p align="center"
 ## 📊 My Github Stats
 
   <br/>
@@ -78,7 +77,7 @@
 
 <br/>
 <br/>
-
+</p>
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Anuj-Saini">
