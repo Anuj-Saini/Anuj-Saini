@@ -38,7 +38,16 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
+<h2>##Connect with me:</h2>
 
+<p align="left">
+<a href="https://twitter.com/AnujSai08366023?fbclid=IwAR0M4_hZBvQ-kFn6Kj8OAmFmmbGATPmi9d3U5Z7NiBZJPQ1J-vG-S3Q0OjY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AnujSai08366023" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anuj-saini-4767b4173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj-saini-4767b4173" height="30" width="40" /></a>
+<a href="https://www.instagram.com/whoanujsaini/?fbclid=IwAR0chfHbhLjK1DMueq2Fh6wo-8KTt3BZP070muugbJEYpANajKNTkU3XSj0" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="anuj0049" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anujsaini0049?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anujsaini0049" height="30" width="40" /></a>
+<a href="https://leetcode.com/AnujSaini_11810306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AnujSaini_11810306" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/anuj11810306/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/anuj11810306/practice/" height="30" width="40" /></a>
+</p>
 
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
@@ -49,19 +58,9 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anuj Saini 's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj-Saini&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-##Connect with me:
 
-<p align="left">
-<a href="https://twitter.com/AnujSai08366023?fbclid=IwAR0M4_hZBvQ-kFn6Kj8OAmFmmbGATPmi9d3U5Z7NiBZJPQ1J-vG-S3Q0OjY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AnujSai08366023" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/anuj-saini-4767b4173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj-saini-4767b4173" height="30" width="40" /></a>
-<a href="https://www.instagram.com/whoanujsaini/?fbclid=IwAR0chfHbhLjK1DMueq2Fh6wo-8KTt3BZP070muugbJEYpANajKNTkU3XSj0" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="anuj0049" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anujsaini0049?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anujsaini0049" height="30" width="40" /></a>
-<a href="https://leetcode.com/AnujSaini_11810306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AnujSaini_11810306" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anuj11810306/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/anuj11810306/practice/" height="30" width="40" /></a>
-
-</p>
 <p align="center"
-## 📊 My Github Stats
+## 📊 <h2>My Github Stats</h2>
 
   <br/>
     <a href="https://github.com/Anuj-Saini/github-readme-stats"><img alt="Anuj Saini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anuj-Saini&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
