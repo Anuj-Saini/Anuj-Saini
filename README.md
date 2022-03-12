@@ -77,7 +77,7 @@
 <br/>
 <br/>
 </p>
-## ❤ Views and Followers
+<h1>## ❤ Views and Followers</h1>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Anuj-Saini">
 </a>
