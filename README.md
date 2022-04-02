@@ -59,6 +59,13 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anuj Saini 's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj-Saini&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+<div align="center">
+  <a href="https://milind.bio.link/" >
+      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Anuj-Saini&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+      <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Saini&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+    <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=Anuj-Saini&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  </a>
+</div>
 
 <p align="center"
 ## 📊 <h2>My Github Stats</h2>
