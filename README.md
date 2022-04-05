@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anuj Saini</h1>
 <h3 align="center">I'm a passionate Full Stack Java Developer from India.</h3>
+![snake animation](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/output/github-contribution-grid-snake.svg)
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on DXC Technology
@@ -79,7 +80,6 @@
 <br/>
 <br/>
 </p>
-![snake animation](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/output/github-contribution-grid-snake.svg)
 <h1>## ❤ Views and Followers</h1>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Anuj-Saini">
