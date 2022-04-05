@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DE37C1&vCenter=true&width=500&height=35&lines=%F0%9F%91%8B%F0%9F%8F%BB++Hey%2C+nice+to+see+you!;+Hi+, I'm Anuj Saini!;I'm+a passionate+Full Stack+Java Developer+from India+%F0%9F%98%93)](http://in.milind.live)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F73456&lines=Hi%F0%9F%91%8B+%2C+I'm+Anuj+Saini+;I'm+a+Full+Stack+Java+Developer)](https://git.io/typing-svg)
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anuj Saini</h1>
