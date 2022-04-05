@@ -2,7 +2,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anuj Saini</h1>
-![snake animation](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/output/github-contribution-grid-snake.svg)
 <h3 align="center">I'm a passionate Full Stack Java Developer from India.</h3>
 ## 🙋‍♂️ About Me
 
@@ -77,11 +76,10 @@
 <br/>
 
 <a href="https://github.com/Anuj-Saini/github-readme-activity-graph"><img alt="Anuj Saini's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anuj-Saini&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-
 <br/>
 <br/>
 </p>
+![snake animation](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/output/github-contribution-grid-snake.svg)
 <h1>## ❤ Views and Followers</h1>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Anuj-Saini">
