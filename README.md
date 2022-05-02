@@ -5,12 +5,10 @@
 <h3 align="center">I'm a passionate Full Stack Java Developer from India.</h3>
 <h3 align="center">Hi, I 'am Anuj Saini Confident in skills, has robust ongoing learning and innovation in the IT field.
 I like to Learn & work on new technologies
-Web Development (HTML,CSS, JacaScript, PHP, MySql)
-C++ 
-Cloud Computing (Hands-on exp. on AWS and Oracle)
+Web Development (HTML,CSS, JacaScript, React)
+C,C++,Java,Python
 Team Player
 Attention to details
-Communication Skills
 Looking forward to work in a professional environment.</h3>
 
 ![snake animation](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/output/github-contribution-grid-snake.svg)
