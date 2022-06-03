@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F73456&lines=Hi%F0%9F%91%8B+%2C+I'm+Anuj+Saini+;I'm+a+Full+Stack+Java+Developer)](https://git.io/typing-svg)
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anuj Saini</h1>
-<h3 align="center">I'm a passionate Full Stack Java Developer from India.</h3>
 <h3 align="center">Hi, I 'am Anuj Saini Confident in skills, has robust ongoing learning and innovation in the IT field.
 I like to Learn & work on new technologies
 Web Development (HTML,CSS, JacaScript, React)
@@ -10,8 +7,6 @@ C,C++,Java,Python
 Team Player
 Attention to details
 Looking forward to work in a professional environment.</h3>
-
-![snake animation](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/output/github-contribution-grid-snake.svg)
 
 ## 🙋‍♂️ About Me
 
