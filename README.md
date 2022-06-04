@@ -8,6 +8,11 @@ Team Player
 Attention to details
 Looking forward to work in a professional environment.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anuj-Saini&label=Profile%20views&color=0e75b6&style=flat" alt="Anuj-Saini" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anuj-Saini" alt="Anuj-Saini" /></a> </p>
+
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on DXC Technology
