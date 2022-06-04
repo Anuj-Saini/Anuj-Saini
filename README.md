@@ -63,35 +63,14 @@ Looking forward to work in a professional environment.</h3>
 <br/>
 <div>
     <div>
-<p align="left">
-    <a href="https://github.com/Anuj-Saini/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anuj Saini 's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj-Saini&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-    </div>
-    <div>
-<p align="right"
-## 📊 <h2>My Github Stats</h2>
 
-  <br/>
-    <a href="https://github.com/Anuj-Saini/github-readme-stats"><img alt="Anuj Saini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anuj-Saini&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Anuj-Saini/github-readme-stats"><img alt="Anuj-Saini's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Saini&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    </div>
-  </div>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anuj-Saini&show_icons=true&locale=en&layout=compact" alt="Anuj-Saini" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anuj-Saini&show_icons=true&locale=en" alt="Anuj-Saini" /></p>
 
-<br/>
-<br/>
-
-<a href="https://github.com/Anuj-Saini/github-readme-activity-graph"><img alt="Anuj Saini's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anuj-Saini&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj-Saini" alt="Anuj-Saini" /></p>
 
 
 
 </p>
-<h1>## ❤ Views and Followers</h1>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Anuj-Saini">
-</a>
-<a href="https://github.com/Anuj-Saini?tab=followers"><img src="https://img.shields.io/github/followers/Anuj-Saini?label=Followers&style=social" alt=" Badge"></a>
+
