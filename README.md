@@ -2,8 +2,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h3 align="center">Hi, I 'am Anuj Saini Confident in skills, has robust ongoing learning and innovation in the IT field.
 I like to Learn & work on new technologies
-Web Development (HTML,CSS, JacaScript, React)
-C,C++,Java,Python
+Languages - C/C++,Java, Javascript.
+Libraries/Frameworks - NodeJS, Express JS, React, Redux
+Databases - MongoDB.
 Team Player
 Attention to details
 Looking forward to work in a professional environment.</h3>
