@@ -1,13 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F73456&lines=Hi%F0%9F%91%8B+%2C+I'm+Anuj+Saini+;I'm+a+Full+Stack+Java+Developer)](https://git.io/typing-svg)
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h3 align="center">Hi, I 'am Anuj Saini Confident in skills, has robust ongoing learning and innovation in the IT field.
-I like to Learn & work on new technologies
-Languages - C/C++,Java, Javascript.
-Libraries/Frameworks - NodeJS, Express JS, React, Redux
-Databases - MongoDB.
-Team Player
-Attention to details
-Looking forward to work in a professional environment.</h3>
+<h3 align="center">I have a confession to make - I'm not a rock star programmer. Nor I am a hacker. I don't know what everyone thinks about me. Nobody has ever called me a wizard. Still, I take pride in the fact that I'm a good, solid programmer and full stack developer. One who works hard at his craft and really enjoys it.Other than this, I love Music.....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anuj-Saini&label=Profile%20views&color=0e75b6&style=flat" alt="Anuj-Saini" /> </p>
 
