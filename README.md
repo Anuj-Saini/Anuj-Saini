@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F73456&lines=Hi%F0%9F%91%8B+%2C+I'm+Anuj+Saini+;I'm+a+Full+Stack+Java+Developer)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DA30F7&lines=Hi+%F0%9F%91%8B%2C+I'm+Anuj+Saini;A+Passionate+Full+Stack+Web+Developer;from+India)](https://git.io/typing-svg)
 <img
-      align="right"
+      align="center"
       src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-      alt=""/><br/><br/>
+      alt=""/>
     
 <h3 align="center">I have a confession to make - I'm not a rock star programmer. Nor I am a hacker. I don't know what everyone thinks about me. Nobody has ever called me a wizard. Still, I take pride in the fact that I'm a good, solid programmer and full stack developer. One who works hard at his craft and really enjoys it.Other than this, I love Music.....</h3>
 
